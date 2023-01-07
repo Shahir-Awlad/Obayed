@@ -1,0 +1,59 @@
+.sec1{
+   height: 550px;   
+}
+.highlight{
+    color: rgba(44, 111, 227, 0.991);
+}
+h1{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-image: url(sakura.jpg);
+}
+.descripion{
+    font-size: 20px;
+    font-style: oblique;
+    color: rgb(120, 114, 114);
+}
+.link{
+    text-decoration: none;
+    color: greenyellow;
+    background-image: linear-gradient(cyan, rgb(176, 24, 181));
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.half{
+    width: 40%;
+    height: 10px;
+    float: left;
+}
+.half img{
+    width:100%;
+}
+.sec2{
+    height: 400px;
+    margin-right: 10px;
+}
+.sec3{
+    height: 400px;
+}
+.note{
+    width: 40%;
+    float: left;
+    margin-left: 70px;
+    height: 190px;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px slateblue
+}
+.notedes{
+    font-style: oblique;
+    color: rgb(120, 114, 114);
+}
+footer p{
+    text-align: center;
+    color: rgb(120, 114, 114);
+}
